@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This is Rishabh's blog made using react.
+          Delhi govt defers odd-even plan after rains improve AQI; review after Diwali | Latest News Delhi - Hindustan Times
         </p>
         <a
           className="App-link"
@@ -16,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Rishabh Blogs!
         </a>
       </header>
     </div>
